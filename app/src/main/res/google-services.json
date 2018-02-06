@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "782181650704",
+    "firebase_url": "https://example-firebase-eca22.firebaseio.com",
+    "project_id": "example-firebase-eca22",
+    "storage_bucket": "example-firebase-eca22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782181650704:android:561cf3da7a56a36c",
+        "android_client_info": {
+          "package_name": "com.example.rianto.examplefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782181650704-oe296bm3jpjlrjjuand1hrp9al5b8d62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSGE2wCH_F6tvjY-awc-kMbyzKhO6wEN8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

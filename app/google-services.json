@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "793165557721",
+    "firebase_url": "https://examplefirabase.firebaseio.com",
+    "project_id": "examplefirabase",
+    "storage_bucket": "examplefirabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793165557721:android:a6ec4b41c7d3b8b3",
+        "android_client_info": {
+          "package_name": "rianto.canvas.graphics.examplefirabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793165557721-u4cp13cef1928j59rb0ao8llovigrnan.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rianto.canvas.graphics.examplefirabase",
+            "certificate_hash": "e6883e20e957fe5c4f52628f16af36340cf3d9af"
+          }
+        },
+        {
+          "client_id": "793165557721-hd7a8032u0tebsbg9lfkv5uk0mlf198k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzRtKHgAu6Xx0ywsnjrRoiGOtSIYFOhwM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793165557721-hd7a8032u0tebsbg9lfkv5uk0mlf198k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793165557721:android:561cf3da7a56a36c",
+        "android_client_info": {
+          "package_name": "com.example.rianto.examplefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793165557721-f3v375o7mdf3gu7csdoi3d8os8dt8tg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rianto.examplefirebase",
+            "certificate_hash": "e6f0e8b027e42a91c74027a63e29ba2355660f89"
+          }
+        },
+        {
+          "client_id": "793165557721-hd7a8032u0tebsbg9lfkv5uk0mlf198k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzRtKHgAu6Xx0ywsnjrRoiGOtSIYFOhwM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793165557721-hd7a8032u0tebsbg9lfkv5uk0mlf198k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
